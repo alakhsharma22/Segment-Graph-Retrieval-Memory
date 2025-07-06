@@ -83,7 +83,7 @@ SGRM is built on rigorous mathematical principles:
 - **Graph theory:** Enables multi-hop context retrieval, balancing local and global history.
 - **Complexity:** Scales efficiently with approximate nearest neighbor search (FAISS/Annoy).
 
-For details, see the [project paper (LaTeX source)](./paper.tex).
+For details, see the SegmentGraphRetrievalMemory.pdf in the repo.
 
 ---
 
