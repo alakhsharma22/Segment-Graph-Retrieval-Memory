@@ -1,0 +1,17 @@
+Introduction:
+Electric vehicles (EVs) have moved from niche curiosities to mainstream contenders in the global automotive market. Early experiments in the 19th century demonstrated that battery‐powered cars could outperform steam or internal‐combustion designs over short distances. However, it wasn’t until breakthroughs in lithium‐ion battery chemistry and power electronics in the 1990s and 2000s that serious commercial EVs began to appear. Today’s EVs offer ranges exceeding 300 miles, rapid DC fast‐charging stations, and performance that rivals—if not exceeds—many gasoline sports cars.
+
+Early History:
+In the 1830s, inventors like Ányos Jedlik and Thomas Davenport built the first crude electric carriages. By the turn of the 20th century, electric taxis were common in New York and London, prized for their quiet operation and lack of exhaust fumes. Yet limitations in battery capacity, high costs, and the discovery of cheap crude oil caused EV development to stall. The Ford Model T’s mass production in 1908 solidified gasoline as the dominant propulsion method, relegating EVs to a minor footnote for much of the 20th century.
+
+Technological Advances:
+The modern revival of EVs traces back to advances in rechargeable lithium‐ion batteries during the 1980s and ’90s. These cells offered significantly higher energy density than earlier lead-acid designs. At the same time, improvements in power inverters, electric motor design, and regenerative braking systems made EVs both practical and efficient. Tesla’s Roadster (2008) proved that electric drivetrains could deliver supercar performance, while the Nissan Leaf (2010) targeted mass-market affordability.
+
+Market Adoption:
+Government incentives—such as tax credits, rebates, and zero-emission vehicle mandates—have accelerated EV uptake in regions like California, China, and Europe. Charging infrastructure has expanded rapidly; over 100,000 public fast-chargers are now available worldwide. Automakers are responding: nearly every major brand has announced plans to offer electric models across all market segments by the mid-2020s. In 2024, EVs accounted for over 10% of new car sales globally, up from less than 1% just a decade ago.
+
+Environmental Impact:
+Switching from gasoline to electric propulsion can cut tailpipe carbon emissions to zero and, depending on the electricity mix, reduce overall greenhouse gases by 50–70%. EVs also eliminate local air pollutants like NOₓ and particulates, improving urban air quality. End-of-life battery recycling and second-life applications in grid storage are active research areas to minimize the ecological footprint of battery production and disposal.
+
+Future Outlook:
+Continued improvements in battery chemistry—such as solid-state electrolytes and silicon-anode materials—promise higher energy density, faster charging, and longer cycle life. Autonomous driving features and vehicle‐to‐grid (V2G) capabilities may further enhance the value proposition of EVs. By 2030, analysts forecast that over 30% of new vehicles sold globally will be electric, marking a historic shift in how we think about transportation and energy consumption.
